@@ -161,7 +161,6 @@ finally:
 организации в определенном регионе.
 
 ## Структура репозитория:
-- `create_db_and_tables.sql` — SQL скрипт для создания базы данных и таблиц.
 - `Gubaidullina_Alina_Ilshatovna_pr6.ipynb` — Jupyter Notebook с выполнением всех заданий.
 
 
